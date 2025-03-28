@@ -3,8 +3,8 @@
 ## About Me
 I am an experienced **software engineer** and **industry expert** with a strong background in **Mobile App development**, **web development**, **backend systems**, **UI/UX design**, and **API design**. Over the years, I have worked with various technologies to create scalable, user-focused systems and applications. I am passionate about continuous learning, problem-solving, and contributing to the tech community.
 
-<div style="float: right;">
-  <img src="212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Profile Picture" />
+<div style="float: right; width: 50%; height: auto;">
+  <img src="212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Profile Picture" style="width: 100%; height: 100%; object-fit: cover;" />
 </div>
 
 ### Skills & Expertise:
