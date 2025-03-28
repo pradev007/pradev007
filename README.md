@@ -1,5 +1,6 @@
 # Hi, I'm Pradip Devkota 👨‍💻
-https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif
+![Alt text](212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
+
 ## About Me
 I am an experienced **software engineer** and **industry expert** with a strong background in **Mobile App development**, **web development**, **backend systems**, **UI/UX designer**, and **API design**. Over the years, I have worked with various technologies to create scalable, user-focused systems and applications. I am passionate about continuous learning, problem-solving, and contributing to the tech community.
 
