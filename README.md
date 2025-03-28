@@ -1,8 +1,11 @@
 # Hi, I'm Pradip Devkota 👨‍💻
-![Alt text](212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 
 ## About Me
-I am an experienced **software engineer** and **industry expert** with a strong background in **Mobile App development**, **web development**, **backend systems**, **UI/UX designer**, and **API design**. Over the years, I have worked with various technologies to create scalable, user-focused systems and applications. I am passionate about continuous learning, problem-solving, and contributing to the tech community.
+I am an experienced **software engineer** and **industry expert** with a strong background in **Mobile App development**, **web development**, **backend systems**, **UI/UX design**, and **API design**. Over the years, I have worked with various technologies to create scalable, user-focused systems and applications. I am passionate about continuous learning, problem-solving, and contributing to the tech community.
+
+<div style="float: right; margin-left: 20px;">
+  <img src="212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Profile Picture" width="150" />
+</div>
 
 ### Skills & Expertise:
 - **Backend Development**: Django, Python, RESTful APIs, GraphQL
@@ -25,4 +28,3 @@ I am an experienced **software engineer** and **industry expert** with a strong 
 - **Startups & Innovation**: Helping early-stage startups with technology stacks and product development.
 
 Feel free to explore my repositories, where I share insights, best practices, and my passion for creating high-quality software.
-
