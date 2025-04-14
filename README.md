@@ -29,4 +29,3 @@ I am an experienced **software engineer** and **industry expert** with a strong 
 - **Startups & Innovation**: Helping early-stage startups with technology stacks and product development.
 
 Feel free to explore my repositories, where I share insights, best practices, and my passion for creating high-quality software.
-
