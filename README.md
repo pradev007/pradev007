@@ -1,6 +1,7 @@
 
 # Hi, I'm Pradip Devkota 👨‍💻
 
+
 ## About Me
 I am an experienced **software engineer** and **industry expert** with a strong background in **Mobile App development**, **web development**, **backend systems**, **UI/UX design**, and **API design**. Over the years, I have worked with various technologies to create scalable, user-focused systems and applications. I am passionate about continuous learning, problem-solving, and contributing to the tech community.
 
