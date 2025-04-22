@@ -53,16 +53,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
-- 📱 Phone: +977-98XXXXXXXX  
-- 🏠 Address: Kathmandu, Nepal  
-- 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)  
-- 🧑‍💻 GitHub: [https://github.com/your-username](https://github.com/your-username)  
+- 📧 Email: pradpdevkota007@gmail.com  
+- 🏠 Address: Pokhara, Nepal   
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" />
-</p>
