@@ -1,31 +1,79 @@
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A Full-Stack Developer & Tech Architect | Passionate about Scalable Systems, Clean UI, and Secure Code</h3>
 
-# Hi, I'm Pradip Devkota 👨‍💻
+---
 
-## About Me
-I am an experienced **software engineer** and **industry expert** with a strong background in **Mobile App development**, **web development**, **backend systems**, **UI/UX design**, and **API design**. Over the years, I have worked with various technologies to create scalable, user-focused systems and applications. I am passionate about continuous learning, problem-solving, and contributing to the tech community.
+### 🧠 About Me
 
-<div style="text-align: center;">
-  <img src="cat.gif" alt="Profile Picture" style="width: 100%; height: auto; object-fit: cover;" />
-</div>
+- 🔭 Currently building **MemberSathi** – a membership-driven platform tailored for food vendors and service sectors globally.
+- 🛠️ Focused on **secure-by-default** systems with **multi-layered security**, scalable backend, and intuitive UI.
+- 🧩 Love architecting systems with **reusability**, **modularity**, and **performance** in mind.
 
-### Skills & Expertise:
-- **Backend Development**: Django, Python, RESTful APIs, GraphQL
-- **Frontend Development**: HTML, CSS, JavaScript
-- **Databases**: PostgreSQL, MySQL
-- **Web Hosting & Deployment**: cPanel, Apache, Nginx
-- **Version Control**: Git, GitHub, GitLab
-- **Authentication & Security**: OAuth, JWT, HTTPS, Data Encryption
-- **Performance Optimization**: Load balancing, Caching, Query Optimization
+---
 
-### Industry Contributions:
-- Thought leader in building **scalable web applications**, **mobile app development**, and **enterprise solutions**.
-- Advocate for **best practices** in software development, such as clean code, security, and performance.
-- Speaker at various **tech conferences** and meetups on topics including API design, architecture, and cloud-based systems.
-- Contributor to **open-source projects** in the web development and cloud space.
+### 🚀 Tech Stack
 
-### Interests:
-- **AI/ML**: Exploring how machine learning can optimize software solutions.
-- **Tech Leadership**: Mentoring teams and guiding junior developers.
-- **Startups & Innovation**: Helping early-stage startups with technology stacks and product development.
+#### 🌐 Frontend
+- HTML5, CSS3, JavaScript (Vanilla)
+- TailwindCSS, Bootstrap (admin panels)
+- React.js (UI components, dashboards)
+- AJAX & Fetch API
+- Dynamic DOM manipulation and data rendering
+- Custom loading states, caching, pagination
 
-Feel free to explore my repositories, where I share insights, best practices, and my passion for creating high-quality software.
+#### ⚙️ Backend
+- Django & Django REST Framework
+- Secure authentication (OTP verification, first-login flows, password change enforcement)
+- Token refresh, JWT authentication
+- RESTful APIs (CRUD, search, filter, pagination)
+- Dynamic user/vendor/admin roles with permission logic
+
+#### 📦 DevOps & Tools
+- Git & GitHub
+- Docker (containerized dev environments)
+- Postman (API testing)
+- VS Code
+
+#### 🧩 Systems
+- Dynamic membership system with:
+  - Credit points, discount %, and food category/item mapping
+  - Admin-managed memberships and categories
+  - Offline order flows with real-time user matching
+
+---
+
+### 🔒 Security-First Development
+
+- Implemented multi-step verification (OTP, first login password change)
+- Role-based access control across vendor/user/admin dashboards
+- Validations on both client & server side
+- Token refresh with secure headers and response checks
+- Defensive programming practices in JavaScript and Python
+
+---
+
+### 📂 Featured Projects
+
+#### 🛒 MemberSathi Platform
+> A global membership system designed for cafes, restaurants, and service vendors.
+- Full-featured user & vendor dashboard
+- Admin top-up, renewal, and offline order creation
+- Real-time UI updates, dynamic category-food mapping
+- Secure and scalable REST API backend
+
+#### 🔐 Secure Login Flow
+> Custom login flow with OTP verification and password change enforcement for both users and vendors.
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [your-email@example.com]
+- 💼 Portfolio: [your-portfolio-link]
+- 🧑‍💻 GitHub: [https://github.com/your-username](https://github.com/your-username)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" />
+</p>
