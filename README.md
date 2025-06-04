@@ -36,8 +36,8 @@
 - Defensive coding with robust error handling
 
 ## 🚀 Featured Projects:
-- **[Member_Sathi (pradip branch)](https://github.com/Membersathi/Member_Sathi/tree/pradip)**: Contributed to a full-stack web application, implementing secure authentication, role-based access, and dynamic frontend features (details private; contact me for more info!).
-- **[pradip](https://github.com/pradev007/pradip)**: A personal project showcasing my expertise in full-stack development with React.js and Django (details private; reach out for a demo!).
+- **[Member_Sathi](https://github.com/Membersathi/Member_Sathi/tree/pradip)**: Contributed to a community platform by developing responsive "Get Started" pages, secure authentication flows, and a modern UI with TailwindCSS and React.js. Implemented features like OTP login, role-based access, and a functional "Contact Sales" modal (details private; contact me for a demo!).
+- **[pradip](https://github.com/pradev007/pradip)**: A personal project showcasing my expertise in full-stack development with React.js and Django, featuring secure APIs and dynamic frontend components (details private; reach out for more info!).
 - *More projects in progress — stay tuned for public releases!*
 
 <picture>
