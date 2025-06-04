@@ -1,50 +1,73 @@
-# 🌀 Sudip KC 
+# 💫 About Me:
+👋 Hi there, I’m Pradip Devkota — a Full-Stack Developer and System Designer based in Pokhara, Nepal.<br>
+💡 Passionate about crafting **secure**, **scalable**, and **dynamic web applications** from frontend to backend.<br>
+🔐 Committed to **secure-by-default code**, implementing multi-layered validation, and robust system design.<br>
+🧩 Skilled in React.js, Django, and DevOps tools — always focused on modularity, reusability, and performance.<br><br>
 
-### 🎨 UI/UX Designer | 💻 Frontend Developer | 🐍 Python Enthusiast
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradip-devkota) 
 
-📍 Based in Nepal  
-🌱 Currently growing my skills in React & Django  
-🔭 Exploring the intersection of design & development  
+# 💻 Tech Stack:
+### 🌐 Frontend Development:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### ⚙️ Backend Development:
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DjangoREST-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### 🧰 Tools & DevOps:
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🔐 Security Practices:
+- OTP-based login and mandatory first-time password change
+- Role-based access control for admin-user-vendor workflows
+- Token-based authentication with refresh handling
+- Strict frontend/backend form validation
+- Defensive coding and error handling
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />   <img src="https://raw.githubusercontent.com/sudipkc3/sudipkc3/main/assets/Blackcat.gif" height="40" />   <img src="https://raw.githubusercontent.com/sudipkc3/sudipkc3/main/assets/SleepingKitty.gif" height="40" />   <img src="https://raw.githubusercontent.com/sudipkc3/sudipkc3/main/assets/kitty.gif" height="40" />
 
 ---
 
-## 🛠️ Tech Stack
-
-### Design Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
-
-### Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
+<details>
+<summary><b>Some Statistics Fun</b></summary>
 <div align="center">
+<img src='https://github-readme-stats.vercel.app/api?username=pradipdevkota&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=pradipdevkota&theme=tokyonight&hide_langs_below=4' />
 
-![Profile Views](https://komarev.com/ghpvc/?username=sudipkc3&color=blueviolet)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pradipdevkota&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sudipkc3&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pradipdevkota)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudipkc3&layout=compact&theme=merko)
+## 🤝 Let’s Collaborate
+Feel free to connect for collaboration or freelance projects.
 
+📫 Email: pradpdevkota007@gmail.com  
+🏠 Address: Pokhara, Nepal  
 </div>
-
----
-
-## 📫 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://kcsudip.com.np)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/kcsudip3)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:sudipkc321@gmail.com)
-
----
-
-🐱 **Fun Fact**: I animate cats in my free time!  
-✨ "Design is not just what it looks like, design is how it works." - Steve Jobs
+</details>
