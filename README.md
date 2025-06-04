@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hi there, I’m Pradip Devkota — a Full-Stack Developer and System Designer based in Pokhara, Nepal.<br>
-💡 Passionate about crafting **secure**, **scalable**, and **dynamic web applications** from frontend to backend.<br>
-🔐 Committed to **secure-by-default code**, implementing multi-layered validation, and robust system design.<br>
-🧩 Skilled in React.js, Django, and DevOps tools — always focused on modularity, reusability, and performance.<br><br>
+👋 Hi, I’m Pradip Devkota — a Full-Stack Developer and System Designer based in Pokhara, Nepal.<br>
+💡 I specialize in building **secure**, **scalable**, and **dynamic web applications** with a focus on clean code and robust architecture.<br>
+🔐 Passionate about **secure-by-default coding**, implementing multi-layered validation, and preventing vulnerabilities.<br>
+🧩 Skilled in React.js, Django, and DevOps tools, I prioritize **modularity**, **reusability**, and **performance** in every project.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradip-devkota) 
@@ -29,11 +29,15 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🔐 Security Practices:
-- OTP-based login and mandatory first-time password change
-- Role-based access control for admin-user-vendor workflows
-- Token-based authentication with refresh handling
-- Strict frontend/backend form validation
-- Defensive coding and error handling
+- OTP-based authentication and mandatory first-time password changes
+- Role-based access control for admin, user, and vendor workflows
+- Token-based authentication with secure refresh mechanisms
+- Strict form validation on both frontend and backend
+- Defensive coding with robust error handling
+
+## 🚀 Featured Projects:
+- **[pradip](https://github.com/pradev007/pradip)**: A project showcasing my skills in full-stack development (details private; contact me for more info!).
+- *More projects coming soon as I build and share my work publicly!*
 
 <picture>
   <source
@@ -65,7 +69,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pradev007)](https://git.io/streak-stats)
 
 ## 🤝 Let’s Collaborate
-Feel free to connect for collaboration or freelance projects.
+I’m excited to collaborate on innovative projects or freelance opportunities. Reach out to discuss ideas or view my private repositories!
 
 📫 Email: pradpdevkota007@gmail.com  
 🏠 Address: Pokhara, Nepal  
