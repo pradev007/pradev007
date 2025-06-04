@@ -68,6 +68,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=pradev007&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pradev007)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradev007&theme=dracula)
 
 ## 🤝 Let’s Collaborate
 I’m excited to collaborate on innovative projects or freelance opportunities. Reach out to discuss ideas or view my private repositories!
