@@ -56,9 +56,7 @@
   />
 </picture>
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />   <img src="https://raw.githubusercontent.com/sudipkc3/sudipkc3/main/assets/Blackcat.gif" height="40" />   <img src="https://raw.githubusercontent.com/sudipkc3/sudipkc3/main/assets/SleepingKitty.gif" height="40" />   <img src="https://raw.githubusercontent.com/sudipkc3/sudipkc3/main/assets/kitty.gif" height="40" />
 
----
 
 <details>
 <summary><b>Some Statistics Fun</b></summary>
