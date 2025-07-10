@@ -65,9 +65,8 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <details>
-
-  <details>
 <summary><b>📊 GitHub Statistics</b></summary>
+
 <br/>
 
 <!-- Total Commits + Stats -->
@@ -85,19 +84,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradev007&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pradev007&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<!-- Repo Summary -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradev007&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradev007&theme=dracula" />
+</p>
+
 </details>
 
-<summary><b>📊 Some Statistics Fun</b></summary>
-<br/>
-
-![Pradip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradev007&show_icons=true&theme=tokyonight&count_private=true&line_height=40)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradev007&theme=tokyonight&hide_langs_below=4)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pradev007&theme=onedark&row=1&column=7)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=pradev007)  
-![Repo Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradev007&theme=dracula)  
-![Commit Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradev007&theme=dracula)
-
-</details>
+---
 
 ## 🤝 Let’s Collaborate
 
