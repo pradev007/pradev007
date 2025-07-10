@@ -65,6 +65,28 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <details>
+
+  <details>
+<summary><b>📊 GitHub Statistics</b></summary>
+<br/>
+
+<!-- Total Commits + Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradev007&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Pradip's GitHub Stats" />
+</p>
+
+<!-- Contribution Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pradev007&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Pradip's GitHub Streak" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradev007&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+</details>
+
 <summary><b>📊 Some Statistics Fun</b></summary>
 <br/>
 
