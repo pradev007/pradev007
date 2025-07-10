@@ -38,12 +38,26 @@
 - Defensive coding with robust error handling  
 
 ## 🚀 Featured Projects:
-- **[Member_Sathi](https://github.com/Membersathi/Member_Sathi/tree/pradip)**: Contributed to a community platform by developing responsive "Get Started" pages, secure authentication flows, and a modern UI with TailwindCSS and React.js. Implemented features like OTP login, role-based access, and a functional "Contact Sales" modal.
-- **[KidsApp](https://github.com/pradev007/kidsApp)**: A cross-platform Flutter app for kids to learn animals, shapes, numbers, and letters through interactive galleries, text-to-speech, and audio. Features a child-friendly UI with staggered grid layouts and `flutter_bloc` for state management.
-- **[QuizApp](https://github.com/pradev007/quizapp)**: A Flutter-based quiz app with Firebase integration for dynamic question fetching, score tracking, and PDF generation. Supports randomized questions, responsive design across platforms, and user settings.
-- **[pradip](https://github.com/pradev007/pradip)**: A personal project showcasing my expertise in full-stack development with React.js and Django, featuring secure APIs and dynamic frontend components.
 
-> 🛠 More projects in progress — stay tuned for public releases!
+- **[FoodRecipe](https://github.com/pradev007/FoodRecipe)**  
+  A cross-platform Flutter app to discover and manage recipes from global cuisines. Integrates Firebase Authentication, Cloud Firestore, and Storage. Features recipe discovery, detailed steps, favorite management, and runs on mobile, web, and desktop platforms.
+
+- **[Furniture (FYP)](https://github.com/pradev007/Furniture)**  
+  A Flutter-based furniture shopping app with Khalti payment, connectivity awareness, shopping cart, search via `easy_search_bar`, and shared preferences for state persistence.
+
+- **[Member_Sathi](https://github.com/Membersathi/Member_Sathi/tree/pradip)**  
+  Built secure auth flows, "Get Started" UI, OTP login, and role-based access control using React and Tailwind for a modern community portal.
+
+- **[KidsApp](https://github.com/pradev007/kidsApp)**  
+  Interactive Flutter app for early learners to explore animals, shapes, letters, and numbers using text-to-speech and audio, built with `flutter_bloc`.
+
+- **[QuizApp](https://github.com/pradev007/quizapp)**  
+  Firebase-powered quiz app with dynamic questions, PDF generation, randomized quizzes, and responsive design.
+
+- **[pradip](https://github.com/pradev007/pradip)**  
+  My personal Django + React full-stack showcase — includes secure API integration, role-based access, and frontend UI components. (Private — contact for preview.)
+
+> 🚧 More innovative apps in the pipeline. Stay tuned!
 
 ---
 
@@ -54,16 +68,17 @@
 <summary><b>📊 Some Statistics Fun</b></summary>
 <br/>
 
-![Pradip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradev007&show_icons=true&theme=tokyonight&count_private=true&line_height=40)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradev007&theme=tokyonight&hide_langs_below=4)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pradev007&theme=onedark&row=1&column=7)
-![GitHub Streak](https://streak-stats.demolab.com/?user=pradev007)
-![Repo Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradev007&theme=dracula)
+![Pradip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradev007&show_icons=true&theme=tokyonight&count_private=true&line_height=40)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradev007&theme=tokyonight&hide_langs_below=4)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pradev007&theme=onedark&row=1&column=7)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=pradev007)  
+![Repo Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradev007&theme=dracula)  
 ![Commit Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradev007&theme=dracula)
 
 </details>
 
 ## 🤝 Let’s Collaborate
+
 I’m excited to collaborate on innovative projects or freelance opportunities. Reach out to discuss ideas or view my private repositories!
 
 📫 **Email:** pradpdevkota007@gmail.com  
