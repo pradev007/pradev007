@@ -3,6 +3,7 @@
 💡 I specialize in building **secure**, **scalable**, and **dynamic web applications** with a focus on clean code and robust architecture.  
 🔐 Passionate about **secure-by-default coding**, implementing multi-layered validation, and preventing vulnerabilities.  
 🧩 Skilled in React.js, Django, and DevOps tools, I prioritize **modularity**, **reusability**, and **performance** in every project.
+![Profile views](https://komarev.com/ghpvc/?username=pradev007&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradip-devkota)
