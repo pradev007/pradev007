@@ -1,5 +1,5 @@
 # 💫 About Me:
-![👁️ Profile Views](https://komarev.com/ghpvc/?username=pradev007&label=👁️%20Profile%20Views&color=gray&style=plastic)
+![👁️ Profile Views](https://komarev.com/ghpvc/?username=pradev007&label=👁️%20Profile%20Views&color=orange&style=plastic)
 
 👋 Hi, I’m Pradip Devkota — a Full-Stack Developer and System Designer based in Pokhara, Nepal.  
 💡 I specialize in building **secure**, **scalable**, and **dynamic web applications** with a focus on clean code and robust architecture.  
