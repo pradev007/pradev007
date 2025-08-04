@@ -5,7 +5,7 @@
 👋 Hi, I’m **Pradip Devkota**, a passionate **Full-Stack Developer** and **System Designer** based in **Pokhara, Nepal**.  
 💡 I specialize in crafting **secure**, **scalable**, and **dynamic web and mobile applications**, emphasizing clean code, robust architecture, and exceptional user experiences.  
 🔐 My focus is on **secure-by-default coding**, implementing multi-layered validation, and mitigating vulnerabilities to ensure reliable systems.  
-🧩 With expertise in modern frameworks and DevOps practices, I prioritize **modularity**, **reusability**, and **performance** in every project.
+🧩 With expertise in modern frameworks, DevOps practices, and image processing, I prioritize **modularity**, **reusability**, and **performance** in every project.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradip-devkota)
@@ -29,6 +29,12 @@
 ![Django REST](https://img.shields.io/badge/Django%20REST-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+### 🖼️ GUI Development
+![Tkinter](https://img.shields.io/badge/Tkinter-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### 📷 Image Processing
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
 ### 🗄️ State Management
 ![Bloc/Cubit](https://img.shields.io/badge/Bloc%2FCubit-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -36,6 +42,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23007ACC.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-%231F6FEB.svg?style=for-the-badge&logo=hoppscotch&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
